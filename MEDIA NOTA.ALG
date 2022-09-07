@@ -10,7 +10,7 @@ Algoritmo "media nota"
 // Data atual  : 06/09/2022
 Var
 // Seção de Declarações das variáveis 
-p1, p2, p3, p4, mediaFinal : real
+p1,p11,p12,p13,p14, p21,p22,p23,p24,p25,p26, p31,p32,p33,p34, p41,p42,p43,p44,p45,p46, mediaFinal : real
 
 
 Inicio
